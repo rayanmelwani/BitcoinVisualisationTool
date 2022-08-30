@@ -4,7 +4,7 @@ This tool was developed for my Master's Dissertation titled 'How'd you get so ri
 
 ## Development
 
-This tool was built using ReactJS.
+This tool was built using ReactJS. Packages & libraries such as ReactFlow, Bootstrap and MUI were used.
 
 ## Data Sources
 
