@@ -1,6 +1,6 @@
 # Bitcoin Visualisation Tool
 
-This tool was developed for my Master's Dissertation titled 'How'd you get so rich? Behind the world's richest bitcoin addresses'.
+This tool was developed for my Master's Dissertation titled 'How'd you get so rich? Behind the world's richest bitcoin addresses'. My supervisor was Professor William Knottenbelt. 
 
 ## Development
 
